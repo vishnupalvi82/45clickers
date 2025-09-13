@@ -1,2 +1,2 @@
-# 45clickers
-Official portfolio website of 45Clickers — showcasing our expertise in video editing, motion graphics, and social media management.
+# clickers-online
+A personal video editing website, showcasing work, services, and creative projects from the 45Clickers team.
